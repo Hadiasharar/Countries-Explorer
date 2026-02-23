@@ -35,11 +35,11 @@ All data comes from the REST Countries API (no key needed):
 ## Screenshots
 
 ### Home Page
-![Home Page] <img width="1903" height="999" alt="HomePage" src="https://github.com/user-attachments/assets/a21268a8-e41b-491a-9929-1fd713e0eb49" />
+<img width="1903" height="999" alt="HomePage" src="https://github.com/user-attachments/assets/a21268a8-e41b-491a-9929-1fd713e0eb49" />
 
 
 ### Search Results
-![Search Results] <img width="1911" height="987" alt="SearchResults" src="https://github.com/user-attachments/assets/842900b8-a2ca-49da-929c-8d20922af717" />
+<img width="1911" height="987" alt="SearchResults" src="https://github.com/user-attachments/assets/842900b8-a2ca-49da-929c-8d20922af717" />
 
 ## Features
 
